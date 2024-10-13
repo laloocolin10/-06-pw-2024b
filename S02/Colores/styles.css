@@ -1,0 +1,11 @@
+body {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background-color: papayawhip;
+  /*color: darkblue; Nombre del color*/
+  /*color: rgba(0,0,139,0.5);; RGB*/
+  /*color: #00008B; Hexadecimal color*/
+  color: #333 /* herramienta para seleccionar color*/
+}
+
